@@ -1,5 +1,5 @@
 # Blood-Vessel-Segmentation-in-fundus-images-for-Diabetic-Retinopathy
-We propose LadderNet, a convolutional network for semantic segmentation with more paths for information flow. We demonstrate that LadderNet can be viewed as an ensemble of FCNs, and validate its superior performance on blood vessel segmentation task in retinal images.
+A convolutional network for semantic segmentation with more paths for information flow. We demonstrate that LadderNet can be viewed as an ensemble of FCNs, and validate its superior performance on blood vessel segmentation task in retinal images.
 
 ### A U-Net segmentation model for accurate segmentation of blood vessels in retinal images.
 #### Method Proposed: 
